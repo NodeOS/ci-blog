@@ -10,8 +10,8 @@
   "dependencies": {
     "async": "^2.1.4",
     "dateformat": "^2.0.0",
-    "fs-extra": "^1.0.0",
-    "github": "^7.3.2",
+    "fs-extra": "^2.1.2",
+    "github": "^9.2.0",
     "lodash": "^4.17.4",
     "simple-git": "^1.65.0"
   }
