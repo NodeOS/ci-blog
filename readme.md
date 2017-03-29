@@ -1,5 +1,7 @@
 # ci-blog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NodeOS/ci-blog.svg)](https://greenkeeper.io/)
+
 ## What is ci-blog?
 
 `ci-blog` is a blogging middleware for GitHub Pages (aka Jekyll). It grabs repo
