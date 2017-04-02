@@ -4,9 +4,7 @@
   "author": "NodeOS",
   "version": "1.0.0",
   "license": "MIT",
-  "scripts": {
-    "start": "scripts/ci-blog.js"
-  },
+  "bin": "server.js",
   "dependencies": {
     "async": "^2.1.4",
     "dateformat": "^2.0.0",
